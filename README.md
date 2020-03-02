@@ -23,3 +23,4 @@
 └── main.js                                // 游戏入口主函数
 
 ```# PixelBird-phaser-
+# PixelBird-phaser-
